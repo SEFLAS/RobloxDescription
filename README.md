@@ -1,7 +1,6 @@
 ## About The Project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEFLAS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://cdn.discordapp.com/attachments/1080129115329404990/1080130773039972363/image.png)
+[](https://cdn.discordapp.com/attachments/1080129115329404990/1080130773039972363/image.png)
 ## Usage
 ```lua
 --Config
