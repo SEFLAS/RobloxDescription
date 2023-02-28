@@ -8,7 +8,7 @@ __serialkey = "Gx_43wUol98x10x1gx23"
 shared.InventoryIo = {
     ["Inventory"] = {"Tushita","Drak Dagger","Hallow Scythe","True Triple Katana","Cursed Dual Katana","Yama"},
     ["SetAlias"] = {
-        ["Melee"] = "Superhuman", -- you can change value it Godhuman,Superhuman,DeathStep,ElectricClaw,DragonTalon
+        ["Melee"] = "Godhuman", -- you can change value it Godhuman,Superhuman,DeathStep,ElectricClaw,DragonTalon
         ["Level"] = false, -- show your level in alias
     }
 }
