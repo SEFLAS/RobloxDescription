@@ -8,3 +8,9 @@
 - **SEFLAS#5018**
 ## Community
 - **d0i Community** [Discord Server](https://discord.gg/BRpYWyw8Qz)
+## \<void\> Nexus:Echo(\<variant\> ...)
+### Send a message every client connected to the server
+### Example
+```lua
+Nexus:Echo('hello to all accounts!')
+```
