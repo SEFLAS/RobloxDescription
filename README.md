@@ -13,6 +13,9 @@ shared.InventoryIo = {
         ["Level"] = false, -- show your level in alias
     }
 }
+pcall(function()
+
+end)
 ```
 
 ## Developer
