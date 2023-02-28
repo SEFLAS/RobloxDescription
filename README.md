@@ -1,6 +1,6 @@
 ## About The Project
 
-[](https://cdn.discordapp.com/attachments/1080129115329404990/1080130773039972363/image.png)
+![](https://cdn.discordapp.com/attachments/1080129115329404990/1080130773039972363/image.png)
 ## Usage
 ```lua
 --Config
