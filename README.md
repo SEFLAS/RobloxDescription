@@ -3,7 +3,7 @@
 ![](https://cdn.discordapp.com/attachments/1080129115329404990/1080130773039972363/image.png)
 ## Usage
 ```lua
---Config
+--Config Ur Can Get Config In Discord
 __serialkey = "Gx_43wUol98x10x1gx23"
 shared.InventoryIo = {
     ["Inventory"] = {"Tushita","Drak Dagger","Hallow Scythe","True Triple Katana","Cursed Dual Katana","Yama"},
